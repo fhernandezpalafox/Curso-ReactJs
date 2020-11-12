@@ -3,8 +3,6 @@
 /app2/node_modules
 /app3-eventos/node_modules
 /app4-state/node_modules
-/.pnp
-.pnp.js
 
 # misc
 .DS_Store
