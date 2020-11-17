@@ -1,9 +1,0 @@
-# dependencies
-/app1/node_modules
-/app2/node_modules
-/app3-eventos/node_modules
-/app4-state/node_modules
-
-# misc
-.DS_Store
-*.zip
