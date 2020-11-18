@@ -31,7 +31,8 @@ class App extends React.Component{
 
             </form>
 
-            <Listado listadopersonas={this.state.listadoP} />
+            <Listado
+              listadopersonas={this.state.listadoP} />
         </div>
      );
 

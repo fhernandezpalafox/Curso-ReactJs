@@ -31,7 +31,8 @@ class App extends Component {
    }
 
    render(){
-       return (<div style={{ margin:'20px'}}>
+       return (
+       <div style={{ margin:'20px'}}>
            <div>
              <form onSubmit={this.agregarEmpleado}>
             <p>

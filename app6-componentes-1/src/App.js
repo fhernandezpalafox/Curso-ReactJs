@@ -3,9 +3,9 @@ import './App.css';
 
 
 class App extends React.Component {
- constructor(){
+ 
+  constructor(){
    super();
-
    this.state =  {
      data: [{
        id:1,
